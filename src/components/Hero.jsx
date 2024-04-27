@@ -7,7 +7,7 @@ const Hero = () => {
       
     <nav className='flex justify-between items-center w-full mb-10 pt-3'>
       <img src={logo} alt="sumz logo" className='w-28 object-contain' />
-      <button type='button' onClick={() => window.open('') } className='black_btn'>
+      <button type='button' onClick={() => window.open('https://github.com/kamel404/AI-Sumz') } className='black_btn'>
         Github 
       </button>
     </nav>
